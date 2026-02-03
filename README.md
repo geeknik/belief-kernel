@@ -25,7 +25,7 @@ BELIEF.KERNEL is not a better LLM. It's a **belief management infrastructure** t
 ### 1. Clone and Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/geeknik/belief-kernel
 cd belief-kernel
 
 # Create virtual environment

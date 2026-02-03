@@ -323,28 +323,6 @@ pip install -r requirements.txt
 
 ---
 
-## License
-
-MIT
-
----
-
-## Status
-
-**✅ V1 PRODUCTION READY** (February 2026)
-
-The system is live and operational:
-- 🟢 Server running at http://localhost:8000
-- 🟢 Web interface with live comparisons
-- 🟢 V1 clustering with zero critical false positives
-- 🟢 5 semantic guardrails enforced
-- 🟢 Weighted contradiction detection
-- 🟢 Event-sourced belief persistence
-
-**Next**: V2 improvements for paraphrase detection (embeddings, synonyms, semantic roles)
-
----
-
 ## Acknowledgments
 
 Developed as a paradigm shift from "LLMs as truth oracles" to "LLMs as evidence generators" with proper epistemic state management. Special thanks to the test prompts that revealed edge cases: Taiwan invasion scenarios, Bitcoin investment advice, and aspirin guidelines all helped validate the HEDGE mechanism.

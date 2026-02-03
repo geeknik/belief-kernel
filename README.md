@@ -135,7 +135,7 @@ witnesses:
     nickname: "GPT-4 Turbo"
 ```
 
-**Available models**: See [OpenRouter models](https://openrouter.ai/docs/models)
+**Available models**: See [OpenRouter models](https://openrouter.ai/models)
 
 ---
 
